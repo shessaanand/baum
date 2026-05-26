@@ -1,1 +1,5 @@
-add_executable(baum main.cpp)
+add_executable(
+	baum 
+	main.cpp
+	scanner.cpp
+)
